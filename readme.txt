@@ -1,3 +1,3 @@
 hello world!
 maxxzs is learning git.
-hhh
+Git is free software distributed under the GPL.
